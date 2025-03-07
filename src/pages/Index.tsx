@@ -18,11 +18,11 @@ const Index = () => {
         </a>
       </div>
       
-      <main className="container z-10 px-4 my-10">
+      <main className="container z-10 px-4 mt-20 mb-24">
         <Profile />
       </main>
       
-      <footer className="w-full py-4 text-white/60 text-sm z-10 mt-auto">
+      <footer className="w-full py-4 text-white/60 text-sm z-10 mt-8 mb-4">
         <p>© {new Date().getFullYear()} Tien Lai. All rights reserved.</p>
       </footer>
     </div>
